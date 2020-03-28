@@ -1,5 +1,5 @@
 # Flutter
-# This is a mobile application with Flutter that contains the following elements:
+### This is a mobile application with Flutter that contains the following elements:
 * Menu (Drawer)
 * Page which contains a QUIZ
 * Page which allows to display the weather data of a city entered using the API openwheather.org
